@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.full-website{
+    width: 1000px; 
+    height: auto;
+    color: #fff;
+    text-align: center;
+    margin: 30px auto;
+    font-size: 30px;
+}
+body{
+    background: rgb(156, 160, 160);
+    background-image: url(image/reuben-teo-fUZWpaUknyI-unsplash.jpg);
+    background-size: cover;
+}
+
+.menu{
+    background: rgb(127, 228, 81);
+    border-radius: 10px 10px 0px 0px;
+    font-family: 'Limelight', cursive;
+}
+.wow{
+    color: rgb(13, 92, 62);
+}
+.hmm{
+    color: rgb(38, 10, 75);
+}
+/* .banner{
+    
+}    */
+img{
+  margin-bottom: -8px;
+  width: 100%;
+}
+
+.container{
+    background: rgb(17, 18, 105);
+    height: 170px;
+}
+h2{
+    background: rgb(74, 93, 128);
+    margin-top: -20px;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.p{
+    text-shadow: 2px 3px 3px #ddd;
+    font-style: italic;
+    font-size: 35px;
+    margin: 20px 5px;
+    font-family: 'Dancing Script', cursive;
+}
+.footer{
+    background: rgb(63, 117, 216);
+    font-family: 'Special Elite', cursive;
+}
+
+.footer-bottom{
+    background: rgb(56, 179, 111);
+    border-radius: 0px 0px 15px 15px;
+    font-family: 'Monoton', cursive;
+    color: rgb(40, 2, 49);
+    word-spacing: 5px;
+    text-transform:capitalize;
+
+}
+
+.op{
+    padding: 30px 0;
+}
+
+.opx{
+    padding: 60px 0;
+}
